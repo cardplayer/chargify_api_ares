@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'activeresource', '>= 2.3.4'
+gem 'activeresource', '>= 2.3.2'
 
 group :test do
   gem 'rspec'
